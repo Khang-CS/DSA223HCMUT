@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1687833392 source:c:\users\khang\onedrive\desktop\dsa223\assignment1_0\assignement1\main.cpp
+	"common.h"
+	"common.cpp"
+	"assignment1.cpp"
+
+1687833530 c:\users\khang\onedrive\desktop\dsa223\assignment1_0\assignement1\common.h
+	<iostream>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<string.h>
+
+1688729177 c:\users\khang\onedrive\desktop\dsa223\assignment1_0\assignement1\common.cpp
+	"common.h"
+
+1688740298 c:\users\khang\onedrive\desktop\dsa223\assignment1_0\assignement1\assignment1.cpp
+	"common.h"
+
